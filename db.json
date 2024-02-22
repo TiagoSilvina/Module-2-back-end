@@ -134,7 +134,7 @@
       "year": "1985",
       "brand": "mercedes",
       "model": "190",
-      "imageUrl": "https://www.classicdriver.com/sites/default/files/cars_images/190e-evoii-c1.jpg",
+      "imgUrl": "https://www.classicdriver.com/sites/default/files/cars_images/190e-evoii-c1.jpg",
       "km": "900000",
       "user": "jenkins",
       "favorite": false,
