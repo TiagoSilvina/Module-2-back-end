@@ -155,7 +155,7 @@
       "year": 1976,
       "brand": "Lamborghini",
       "model": "Silhouette",
-      "imgUrl": "https://www.carpixel.net/w/29917e04f8ee313c837ac7ecf640fdaf/lamborghini-silhouette-wallpaper-hd-47629.jpg",
+      "imgUrl": "https://wearecurated.com/wp-content/uploads/Lamborghini-Silhouette-8-of-71.jpg",
       "km": 12345,
       "price": "Silent Auction",
       "user": "private"
@@ -192,16 +192,6 @@
     },
     {
       "id": 20,
-      "year": 1985,
-      "brand": "Honda",
-      "model": "CR-X",
-      "imgUrl": "https://www.motorbiscuit.com/wp-content/uploads/2020/11/1985-Honda-CRX-Si.jpg",
-      "km": 56789,
-      "price": "Silent Auction",
-      "user": "private"
-    },
-    {
-      "id": 21,
       "year": 1985,
       "brand": "Nissan",
       "model": "300ZX",
