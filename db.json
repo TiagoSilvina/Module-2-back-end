@@ -3,142 +3,191 @@
     {
       "id": 1,
       "year": 1965,
-      "brand": "Ford",
-      "model": "Mustang",
-      "imgUrl": "https://www.classicdriver.com/sites/default/files/cars_images/190e-evoii-c1.jpg",
-      "km": 120000,
-      "user": "private",
-      "favorite": false
+      "brand": "Chevrolet",
+      "model": "Corvette",
+      "imgUrl": "https://cdn.dealeraccelerate.com/ideal/1/247/5792/1920x1440/1965-chevrolet-corvette",
+      "km": 65789,
+      "user": "private"
     },
     {
       "id": 2,
-      "year": 1966,
-      "brand": "Chevrolet",
-      "model": "Camaro",
-      "imgUrl": "https://example.com/chevrolet-camaro-1966.jpg",
-      "km": 150000,
-      "user": "private",
-      "favorite": false
+      "year": 1967,
+      "brand": "Ford",
+      "model": "Mustang",
+      "imgUrl": "https://bringatrailer.com/wp-content/uploads/2020/12/1967_ford_mustang_fastback_1627676938330399e24dDSC08950-1.jpg",
+      "km": 87432,
+      "user": "private"
     },
     {
       "id": 3,
-      "year": 1967,
+      "year": 1969,
       "brand": "Pontiac",
-      "model": "GTO",
-      "imgUrl": "https://example.com/pontiac-gto-1967.jpg",
-      "km": 110000,
-      "user": "private",
-      "favorite": false
+      "model": "Firebird",
+      "imgUrl": "https://bringatrailer.com/wp-content/uploads/2018/06/1969_pontiac_firebird_15294414557dff9f98764daDSC_0105.jpg",
+      "km": 32005,
+      "user": "private"
     },
     {
       "id": 4,
-      "year": 1968,
-      "brand": "Dodge",
-      "model": "Charger",
-      "imgUrl": "https://example.com/dodge-charger-1968.jpg",
-      "km": 130000,
-      "user": "private",
-      "favorite": false
+      "year": 1971,
+      "brand": "Ferrari",
+      "model": "Dino 246 GT",
+      "imgUrl": "https://gearmoose.com/wp-content/uploads/2020/03/1971-Ferrari-Dino-246-GT-1280x800.jpg",
+      "km": 12345,
+      "user": "private"
     },
     {
       "id": 5,
-      "year": 1969,
-      "brand": "Plymouth",
-      "model": "Road Runner",
-      "imgUrl": "https://example.com/plymouth-road-runner-1969.jpg",
-      "km": 170000,
-      "user": "private",
-      "favorite": false
+      "year": 1973,
+      "brand": "Porsche",
+      "model": "911 Carrera RS",
+      "imgUrl": "https://uncrate.com/p/2018/10/911-rs-prototype-1.jpg",
+      "km": 145678,
+      "user": "private"
     },
     {
       "id": 6,
-      "year": 1970,
-      "brand": "Chevrolet",
-      "model": "Chevelle",
-      "imgUrl": "https://example.com/chevrolet-chevelle-1970.jpg",
-      "km": 140000,
-      "user": "private",
-      "favorite": false
+      "year": 1975,
+      "brand": "Lamborghini",
+      "model": "Countach LP400",
+      "imgUrl": "https://wallup.net/wp-content/uploads/2019/09/619763-1975-lamborghini-countach-lp400-periscopica-bertone-us-spec-classic-supercar.jpg",
+      "km": 98765,
+      "user": "private"
     },
     {
       "id": 7,
-      "year": 1971,
-      "brand": "Ford",
-      "model": "Torino",
-      "imgUrl": "https://example.com/ford-torino-1971.jpg",
-      "km": 160000,
-      "user": "private",
-      "favorite": false
+      "year": 1978,
+      "brand": "BMW",
+      "model": "M1",
+      "imgUrl": "https://uncrate.com/p/2019/07/bmw-m1-1.jpg",
+      "km": 56789,
+      "user": "private"
     },
     {
       "id": 8,
-      "year": 1972,
-      "brand": "Oldsmobile",
-      "model": "Cutlass",
-      "imgUrl": "https://example.com/oldsmobile-cutlass-1972.jpg",
-      "km": 125000,
-      "user": "private",
-      "favorite": false
+      "year": 1980,
+      "brand": "Audi",
+      "model": "Quattro",
+      "imgUrl": "https://www.goodwood.com/globalassets/.road--racing/road/news/2020/6-june/list-best-audi-quattros/best-quattro-audis-1-audi-sport-quattro-1984-goodwood-08062020.jpg?crop=(0,379,2600,1842)&width=1600",
+      "km": 134567,
+      "user": "private"
     },
     {
       "id": 9,
-      "year": 1973,
-      "brand": "Plymouth",
-      "model": "Barracuda",
-      "imgUrl": "https://example.com/plymouth-barracuda-1973.jpg",
-      "km": 155000,
-      "user": "private",
-      "favorite": false
+      "year": 1982,
+      "brand": "Toyota",
+      "model": "Celica Supra",
+      "imgUrl": "https://bringatrailer.com/wp-content/uploads/2023/05/1982_toyota_celica-supra_2c4a0601-17941.jpg",
+      "km": 45678,
+      "user": "private"
     },
     {
       "id": 10,
-      "year": 1974,
-      "brand": "Chevrolet",
-      "model": "Impala",
-      "imgUrl": "https://example.com/chevrolet-impala-1974.jpg",
-      "km": 145000,
-      "user": "private",
-      "favorite": false
+      "year": 1969,
+      "brand": "Datsun",
+      "model": "240z",
+      "imgUrl": "https://www.drive.gr/sites/default/files/node-files/photos/posts/2016/12/classic_datsun_240z_opening.jpg",
+      "km": 98765,
+      "user": "private"
     },
     {
       "id": 11,
-      "year": 1975,
-      "brand": "Ford",
-      "model": "Gran Torino",
-      "imgUrl": "https://example.com/ford-gran-torino-1975.jpg",
-      "km": 165000,
-      "user": "private",
-      "favorite": false
+      "year": 1966,
+      "brand": "Chevrolet",
+      "model": "Chevelle",
+      "imgUrl": "https://bringatrailer.com/wp-content/uploads/2019/11/1966_chevrolet_chevelle_ss_396_1575483260f8cbe183b9fullsizeoutput_2717.jpeg",
+      "km": 76982,
+      "user": "private"
     },
     {
       "id": 12,
+      "year": 1968,
+      "brand": "Ford",
+      "model": "GT40",
+      "imgUrl": "https://photos.classiccars.com/cc-temp/listing/88/9375/2055604-1968-ford-gt40-std.jpg",
+      "km": 23456,
+      "user": "private"
+    },
+    {
+      "id": 13,
+      "year": 1970,
+      "brand": "Pontiac",
+      "model": "GTO",
+      "imgUrl": "https://cdn.dealeraccelerate.com/pjs/1/738/22292/1920x1440/1970-pontiac-gto",
+      "km": 87654,
+      "user": "private"
+    },
+    {
+      "id": 14,
+      "year": 1972,
+      "brand": "Ferrari",
+      "model": "365 GTB/4 Daytona",
+      "imgUrl": "https://ccmarketplace.azureedge.net/cc-temp/listing/119/1020/15416471-1972-ferrari-365-gtb-4-daytona-berlinetta-std.jpg",
+      "km": 98765,
+      "user": "private"
+    },
+    {
+      "id": 15,
+      "year": 1974,
+      "brand": "Porsche",
+      "model": "911 Turbo",
+      "imgUrl": "https://cdn1.mecum.com/auctions/ca0817/ca0817-300168/images/ca0817-300168_1@2x.jpg?1503072735000",
+      "km": 45678,
+      "user": "private"
+    },
+    {
+      "id": 16,
       "year": 1976,
-      "brand": "Dodge",
-      "model": "Dart",
-      "imgUrl": "https://example.com/dodge-dart-1976.jpg",
-      "km": 135000,
-      "user": "private",
-      "favorite": false
+      "brand": "Lamborghini",
+      "model": "Silhouette",
+      "imgUrl": "https://www.carpixel.net/w/29917e04f8ee313c837ac7ecf640fdaf/lamborghini-silhouette-wallpaper-hd-47629.jpg",
+      "km": 12345,
+      "user": "private"
     },
     {
-      "year": "1965",
-      "brand": "ford",
-      "model": "anglia",
-      "imageUrl": "image text url",
-      "km": "50000",
-      "user": "jenkins",
-      "favorite": false,
-      "id": 13
+      "id": 17,
+      "year": 1978,
+      "brand": "BMW",
+      "model": "M5",
+      "imgUrl": "https://images.classic.com/vehicles/7bb029e0cf00df9a4049725a6248beb7d9131fa9.jpg?auto=format&fit=crop&ar=4:3",
+      "km": 98765,
+      "user": "private"
     },
     {
-      "year": "1985",
-      "brand": "mercedes",
-      "model": "190",
-      "imgUrl": "https://www.classicdriver.com/sites/default/files/cars_images/190e-evoii-c1.jpg",
-      "km": "900000",
-      "user": "jenkins",
-      "favorite": false,
-      "id": 14
+      "id": 18,
+      "year": 1981,
+      "brand": "Audi",
+      "model": "Quattro",
+      "imgUrl": "https://s3-eu-west-1.amazonaws.com/cca-prod-asset/images/6/3/3/5/285336-1-eng-GB/35.jpg",
+      "km": 87654,
+      "user": "private"
+    },
+    {
+      "id": 19,
+      "year": 1983,
+      "brand": "Toyota",
+      "model": "Corolla AE86",
+      "imgUrl": "https://cdn.dealeraccelerate.com/international/1/997/44655/1920x1440/1984-toyota-corolla-levin-ae86",
+      "km": 23456,
+      "user": "private"
+    },
+    {
+      "id": 20,
+      "year": 1985,
+      "brand": "Honda",
+      "model": "CR-X",
+      "imgUrl": "https://www.motorbiscuit.com/wp-content/uploads/2020/11/1985-Honda-CRX-Si.jpg",
+      "km": 56789,
+      "user": "private"
+    },
+    {
+      "id": 21,
+      "year": 1985,
+      "brand": "Nissan",
+      "model": "300ZX",
+      "imgUrl": "https://smclassiccars.com/uploads/postfotos/1985-nissan-300zx-turbo-5-speed-119k-miles-z31-12.jpg",
+      "km": 134567,
+      "user": "private"
     }
   ]
 }
