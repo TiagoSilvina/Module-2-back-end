@@ -7,6 +7,7 @@
       "model": "Corvette",
       "imgUrl": "https://cdn.dealeraccelerate.com/ideal/1/247/5792/1920x1440/1965-chevrolet-corvette",
       "km": 65789,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -16,6 +17,7 @@
       "model": "Mustang",
       "imgUrl": "https://bringatrailer.com/wp-content/uploads/2020/12/1967_ford_mustang_fastback_1627676938330399e24dDSC08950-1.jpg",
       "km": 87432,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -25,6 +27,7 @@
       "model": "Firebird",
       "imgUrl": "https://bringatrailer.com/wp-content/uploads/2018/06/1969_pontiac_firebird_15294414557dff9f98764daDSC_0105.jpg",
       "km": 32005,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -34,6 +37,7 @@
       "model": "Dino 246 GT",
       "imgUrl": "https://gearmoose.com/wp-content/uploads/2020/03/1971-Ferrari-Dino-246-GT-1280x800.jpg",
       "km": 12345,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -43,6 +47,7 @@
       "model": "911 Carrera RS",
       "imgUrl": "https://uncrate.com/p/2018/10/911-rs-prototype-1.jpg",
       "km": 145678,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -52,6 +57,7 @@
       "model": "Countach LP400",
       "imgUrl": "https://wallup.net/wp-content/uploads/2019/09/619763-1975-lamborghini-countach-lp400-periscopica-bertone-us-spec-classic-supercar.jpg",
       "km": 98765,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -61,6 +67,7 @@
       "model": "M1",
       "imgUrl": "https://uncrate.com/p/2019/07/bmw-m1-1.jpg",
       "km": 56789,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -70,6 +77,7 @@
       "model": "Quattro",
       "imgUrl": "https://www.goodwood.com/globalassets/.road--racing/road/news/2020/6-june/list-best-audi-quattros/best-quattro-audis-1-audi-sport-quattro-1984-goodwood-08062020.jpg?crop=(0,379,2600,1842)&width=1600",
       "km": 134567,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -79,6 +87,7 @@
       "model": "Celica Supra",
       "imgUrl": "https://bringatrailer.com/wp-content/uploads/2023/05/1982_toyota_celica-supra_2c4a0601-17941.jpg",
       "km": 45678,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -88,6 +97,7 @@
       "model": "240z",
       "imgUrl": "https://www.drive.gr/sites/default/files/node-files/photos/posts/2016/12/classic_datsun_240z_opening.jpg",
       "km": 98765,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -97,6 +107,7 @@
       "model": "Chevelle",
       "imgUrl": "https://bringatrailer.com/wp-content/uploads/2019/11/1966_chevrolet_chevelle_ss_396_1575483260f8cbe183b9fullsizeoutput_2717.jpeg",
       "km": 76982,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -106,6 +117,7 @@
       "model": "GT40",
       "imgUrl": "https://photos.classiccars.com/cc-temp/listing/88/9375/2055604-1968-ford-gt40-std.jpg",
       "km": 23456,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -115,6 +127,7 @@
       "model": "GTO",
       "imgUrl": "https://cdn.dealeraccelerate.com/pjs/1/738/22292/1920x1440/1970-pontiac-gto",
       "km": 87654,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -124,6 +137,7 @@
       "model": "365 GTB/4 Daytona",
       "imgUrl": "https://ccmarketplace.azureedge.net/cc-temp/listing/119/1020/15416471-1972-ferrari-365-gtb-4-daytona-berlinetta-std.jpg",
       "km": 98765,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -133,6 +147,7 @@
       "model": "911 Turbo",
       "imgUrl": "https://cdn1.mecum.com/auctions/ca0817/ca0817-300168/images/ca0817-300168_1@2x.jpg?1503072735000",
       "km": 45678,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -142,6 +157,7 @@
       "model": "Silhouette",
       "imgUrl": "https://www.carpixel.net/w/29917e04f8ee313c837ac7ecf640fdaf/lamborghini-silhouette-wallpaper-hd-47629.jpg",
       "km": 12345,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -151,6 +167,7 @@
       "model": "M5",
       "imgUrl": "https://images.classic.com/vehicles/7bb029e0cf00df9a4049725a6248beb7d9131fa9.jpg?auto=format&fit=crop&ar=4:3",
       "km": 98765,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -160,6 +177,7 @@
       "model": "Quattro",
       "imgUrl": "https://s3-eu-west-1.amazonaws.com/cca-prod-asset/images/6/3/3/5/285336-1-eng-GB/35.jpg",
       "km": 87654,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -169,6 +187,7 @@
       "model": "Corolla AE86",
       "imgUrl": "https://cdn.dealeraccelerate.com/international/1/997/44655/1920x1440/1984-toyota-corolla-levin-ae86",
       "km": 23456,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -178,6 +197,7 @@
       "model": "CR-X",
       "imgUrl": "https://www.motorbiscuit.com/wp-content/uploads/2020/11/1985-Honda-CRX-Si.jpg",
       "km": 56789,
+      "price": "Silent Auction",
       "user": "private"
     },
     {
@@ -187,6 +207,7 @@
       "model": "300ZX",
       "imgUrl": "https://smclassiccars.com/uploads/postfotos/1985-nissan-300zx-turbo-5-speed-119k-miles-z31-12.jpg",
       "km": 134567,
+      "price": "Silent Auction",
       "user": "private"
     }
   ]
