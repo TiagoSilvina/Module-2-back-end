@@ -80,16 +80,7 @@
       "price": "Silent Auction",
       "user": "private"
     },
-    {
-      "id": 9,
-      "year": 1982,
-      "brand": "Toyota",
-      "model": "Celica Supra",
-      "imgUrl": "https://bringatrailer.com/wp-content/uploads/2023/05/1982_toyota_celica-supra_2c4a0601-17941.jpg",
-      "km": 45678,
-      "price": "Silent Auction",
-      "user": "private"
-    },
+
     {
       "id": 10,
       "year": 1969,
@@ -187,16 +178,6 @@
       "model": "Corolla AE86",
       "imgUrl": "https://cdn.dealeraccelerate.com/international/1/997/44655/1920x1440/1984-toyota-corolla-levin-ae86",
       "km": 23456,
-      "price": "Silent Auction",
-      "user": "private"
-    },
-    {
-      "id": 20,
-      "year": 1985,
-      "brand": "Nissan",
-      "model": "300ZX",
-      "imgUrl": "https://smclassiccars.com/uploads/postfotos/1985-nissan-300zx-turbo-5-speed-119k-miles-z31-12.jpg",
-      "km": 134567,
       "price": "Silent Auction",
       "user": "private"
     }
